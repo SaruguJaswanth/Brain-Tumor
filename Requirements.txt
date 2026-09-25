@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+opencv-python
+tensorflow
+keras
+pillow
+streamlit
+
+# python 3.10.0
